@@ -62,4 +62,3 @@ void findColSum(const double *sPtr,double *SumL,int N,int M){
         }
     }
 }
-}
